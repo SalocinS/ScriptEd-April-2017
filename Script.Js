@@ -5,3 +5,7 @@ $('#contact_email').on('input', function() {
 	if(is_email){input.removeClass("invalid").addClass("valid");}
 	else{input.removeClass("valid").addClass("invalid");}
 });
+
+$("#submit").click(function(){
+    
+});
