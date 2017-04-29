@@ -4,6 +4,7 @@
 
 body{
     background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/disp/1067219618379.560dddfb8c487.png");
+    background-size:cover;
 }
 h2{
     color:yellow;
