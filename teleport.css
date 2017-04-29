@@ -1,4 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 body {
     background-image: url("https://img2.cgtrader.com/items/34268/a846b49383/teleport-single-3d-model-obj-3ds.png");
     color: green;
+    font-family: 'Open Sans', sans-serif;
+    font-size:18px;
+}
+#name1 {
+    margin:10px;
+}
+#name2{
+    margin:10px;
+}
+#location{
+    margin:10px;
+}
+#vacation{
+    margin:10px;
+}
+#time1{
+    margin:10px;
+}
+#time2{
+    margin:10px;
+}
+#email{
+    margin:10px;
 }

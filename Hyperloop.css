@@ -1,5 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 body {
     background-image: url(http://www.napalete.sk/wp-content/uploads/2016/11/hyperloop2.jpg);
     background-size: cover;
     color: black;
+    font-family: 'Open Sans', sans-serif;
+    font-size:18px;
+}
+#name1 {
+    margin:10px;
+}
+#name2{
+    margin:10px;
+}
+#location{
+    margin:10px;
+}
+#vacation{
+    margin:10px;
+}
+#time1{
+    margin:10px;
+}
+#time2{
+    margin:10px;
+}
+#email{
+    margin:10px;
 }
